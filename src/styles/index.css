@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.glow {
+    box-shadow: 0px 0px 20px 5px rgba(255, 255, 255, 0.7); /* Sombra blanca brillante */
+}
